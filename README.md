@@ -1,5 +1,3 @@
 # fhack.net
 
-
-
-Official Site for fhack. 
+https://fhack.net/
