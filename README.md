@@ -1,2 +1,1 @@
 # fhack.net
-web
